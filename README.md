@@ -7,3 +7,6 @@
 2. pip (pip3) install -r requirement.txt<br>
 3. 執行main.py<br>
 4. 將產生的音樂清單txt檔案上傳到 https://www.tunemymusic.com/zh/ 便可以匯入youtube<br>
+
+完整介紹:
+https://medium.com/@jerry800416/mixerbox-%E8%BD%89%E7%A7%BB%E6%AD%8C%E6%9B%B2%E6%B8%85%E5%96%AE%E5%88%B0youtube-music-5824b5465bee
