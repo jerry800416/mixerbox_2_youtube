@@ -4,7 +4,7 @@ import json
 
 
 # read mixerbox backup playlist
-with open('./mixerbox_library.txt','a') as file:
+with open('./mixerbox_library.txt','r') as file:
     result = json.loads(file.read())
 
 
