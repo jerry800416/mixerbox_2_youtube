@@ -27,7 +27,7 @@ for i in result:
                     while title == 'YouTube':
                         try_again += 1
                         if try_again <= 3 :
-                            doc = pq(url=url)
+                            doc = pq(url=url,encoding='utf-8')
                             title = doc('html head title').text()
                         else :
                             break
