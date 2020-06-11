@@ -33,6 +33,4 @@ for i in result:
                             break
                     if title != 'YouTube':
                         # write youtube title to playlist txt
-                        f.write(title[:-10]+'\r\n')               
-    else :
-        pass
+                        f.write(title[:-10]+'\r\n')
