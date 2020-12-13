@@ -20,6 +20,5 @@ windows 10(python3.6)<br>
 <br>
 
 #### 完整介紹
-完整介紹
- https://medium.com/@jerry800416/mixerbox-%E8%BD%89%E7%A7%BB%E6%AD%8C%E6%9B%B2%E6%B8%85%E5%96%AE%E5%88%B0youtube-music-5824b5465bee
+URL : https://medium.com/@jerry800416/mixerbox-%E8%BD%89%E7%A7%BB%E6%AD%8C%E6%9B%B2%E6%B8%85%E5%96%AE%E5%88%B0youtube-music-5824b5465bee
 
