@@ -3,9 +3,11 @@
 
 ### 已測試可運行環境:ubuntu 16.04、windows 10、python3.5、3.6
 
-更新日誌:<br>
+#### 更新日誌
 2020.12.13更新: youtube 爬取網頁結構修正、新增import requests 修正中文字亂碼問題<br>
 <br>
+<br>
+#### 運行方法
 1. 將mixerbox 匯出的音樂清單放在程式碼同目錄下 並更名為 mixerbox_library.txt<br>
 2. pip (pip3) install -r requirement.txt<br>
 3. 執行main.py<br>
